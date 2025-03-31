@@ -119,7 +119,7 @@
     "slots": [],
     "defense": 6,
     "monsters": ["Chatacabra"]
-  }
+  },
   { "name": "Ajarakan Helm α", "slot": "head", "skills": [["Defense Boost", 1]], "slots": [1], "defense": 20, "monsters": ["Ajarakan"] },
   { "name": "Ajarakan Mail α", "slot": "chest", "skills": [["Health Boost", 1]], "slots": [1], "defense": 20, "monsters": ["Ajarakan"] },
   { "name": "Ajarakan Braces α", "slot": "arms", "skills": [["Defense Boost", 1]], "slots": [], "defense": 20, "monsters": ["Ajarakan"] },
