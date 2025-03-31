@@ -1,0 +1,152 @@
+
+[
+  {
+    "name": "Hope Mask",
+    "slot": "head",
+    "skills": [["Stun Resistance", 1]],
+    "slots": [],
+    "defense": 2,
+    "monsters": ["Hope"]
+  },
+  {
+    "name": "Hope Mail",
+    "slot": "chest",
+    "skills": [["Divine Blessing", 1]],
+    "slots": [],
+    "defense": 2,
+    "monsters": ["Hope"]
+  },
+  {
+    "name": "Hope Vambraces",
+    "slot": "arms",
+    "skills": [["Divine Blessing", 1]],
+    "slots": [],
+    "defense": 2,
+    "monsters": ["Hope"]
+  },
+  {
+    "name": "Hope Coil",
+    "slot": "waist",
+    "skills": [["Stun Resistance", 1]],
+    "slots": [],
+    "defense": 2,
+    "monsters": ["Hope"]
+  },
+  {
+    "name": "Hope Greaves",
+    "slot": "legs",
+    "skills": [["Divine Blessing", 1]],
+    "slots": [],
+    "defense": 2,
+    "monsters": ["Hope"]
+  },
+  {
+    "name": "Doshaguma Helm",
+    "slot": "head",
+    "skills": [["Free Meal", 1]],
+    "slots": [],
+    "defense": 16,
+    "monsters": ["Doshaguma"]
+  },
+  {
+    "name": "Doshaguma Mail",
+    "slot": "chest",
+    "skills": [["Free Meal", 1]],
+    "slots": [],
+    "defense": 16,
+    "monsters": ["Doshaguma"]
+  },
+  {
+    "name": "Doshaguma Braces",
+    "slot": "arms",
+    "skills": [["Recovery Speed", 1]],
+    "slots": [],
+    "defense": 16,
+    "monsters": ["Doshaguma"]
+  },
+  {
+    "name": "Doshaguma Coil",
+    "slot": "waist",
+    "skills": [["Item Prolonger", 1]],
+    "slots": [],
+    "defense": 16,
+    "monsters": ["Doshaguma"]
+  },
+  {
+    "name": "Doshaguma Greaves",
+    "slot": "legs",
+    "skills": [["Free Meal", 1]],
+    "slots": [],
+    "defense": 16,
+    "monsters": ["Doshaguma"]
+  },
+  {
+    "name": "Chatacabra Helm",
+    "slot": "head",
+    "skills": [["Speed Eating", 1]],
+    "slots": [],
+    "defense": 6,
+    "monsters": ["Chatacabra"]
+  },
+  {
+    "name": "Chatacabra Mail",
+    "slot": "chest",
+    "skills": [["Speed Eating", 1]],
+    "slots": [],
+    "defense": 6,
+    "monsters": ["Chatacabra"]
+  },
+  {
+    "name": "Chatacabra Vambraces",
+    "slot": "arms",
+    "skills": [["Item Prolonger", 1]],
+    "slots": [],
+    "defense": 6,
+    "monsters": ["Chatacabra"]
+  },
+  {
+    "name": "Chatacabra Coil",
+    "slot": "waist",
+    "skills": [["Speed Eating", 1]],
+    "slots": [],
+    "defense": 6,
+    "monsters": ["Chatacabra"]
+  },
+  {
+    "name": "Chatacabra Greaves",
+    "slot": "legs",
+    "skills": [["Item Prolonger", 1]],
+    "slots": [],
+    "defense": 6,
+    "monsters": ["Chatacabra"]
+  }
+  { "name": "Ajarakan Helm α", "slot": "head", "skills": [["Defense Boost", 1]], "slots": [1], "defense": 20, "monsters": ["Ajarakan"] },
+  { "name": "Ajarakan Mail α", "slot": "chest", "skills": [["Health Boost", 1]], "slots": [1], "defense": 20, "monsters": ["Ajarakan"] },
+  { "name": "Ajarakan Braces α", "slot": "arms", "skills": [["Defense Boost", 1]], "slots": [], "defense": 20, "monsters": ["Ajarakan"] },
+  { "name": "Ajarakan Coil α", "slot": "waist", "skills": [["Recovery Speed", 1]], "slots": [], "defense": 20, "monsters": ["Ajarakan"] },
+  { "name": "Ajarakan Greaves α", "slot": "legs", "skills": [["Health Boost", 1]], "slots": [1], "defense": 20, "monsters": ["Ajarakan"] },
+
+  { "name": "Arkveld Helm α", "slot": "head", "skills": [["Agitator", 2]], "slots": [2], "defense": 55, "monsters": ["Arkveld"] },
+  { "name": "Arkveld Mail α", "slot": "chest", "skills": [["Focus", 1]], "slots": [1, 1], "defense": 55, "monsters": ["Arkveld"] },
+  { "name": "Arkveld Vambraces α", "slot": "arms", "skills": [["Agitator", 1], ["Weakness Exploit", 1]], "slots": [2], "defense": 55, "monsters": ["Arkveld"] },
+  { "name": "Arkveld Coil α", "slot": "waist", "skills": [["Critical Boost", 2]], "slots": [3], "defense": 55, "monsters": ["Arkveld"] },
+  { "name": "Arkveld Greaves α", "slot": "legs", "skills": [["Weakness Exploit", 1]], "slots": [1], "defense": 55, "monsters": ["Arkveld"] },
+
+  { "name": "Bone Helm α", "slot": "head", "skills": [["Marathon Runner", 1]], "slots": [], "defense": 4, "monsters": ["Bone"] },
+  { "name": "Bone Mail α", "slot": "chest", "skills": [["Marathon Runner", 1]], "slots": [], "defense": 4, "monsters": ["Bone"] },
+  { "name": "Bone Vambraces α", "slot": "arms", "skills": [["Stun Resistance", 1]], "slots": [], "defense": 4, "monsters": ["Bone"] },
+  { "name": "Bone Coil α", "slot": "waist", "skills": [["Marathon Runner", 1]], "slots": [], "defense": 4, "monsters": ["Bone"] },
+  { "name": "Bone Greaves α", "slot": "legs", "skills": [["Stun Resistance", 1]], "slots": [], "defense": 4, "monsters": ["Bone"] },
+
+  { "name": "Kut-Ku Helm α", "slot": "head", "skills": [["Fire Resistance", 2], ["Constitution", 2]], "slots": [1], "defense": 36, "monsters": ["Yian Kut-Ku"] },
+  { "name": "Kut-Ku Mail α", "slot": "chest", "skills": [["Fire Resistance", 1], ["Agitator", 1]], "slots": [1], "defense": 36, "monsters": ["Yian Kut-Ku"] },
+  { "name": "Kut-Ku Vambraces α", "slot": "arms", "skills": [["Constitution", 1], ["Agitator", 1]], "slots": [1], "defense": 36, "monsters": ["Yian Kut-Ku"] },
+  { "name": "Kut-Ku Coil α", "slot": "waist", "skills": [["Recovery Up", 2], ["Agitator", 1]], "slots": [], "defense": 36, "monsters": ["Yian Kut-Ku"] },
+  { "name": "Kut-Ku Greaves α", "slot": "legs", "skills": [["Recovery Up", 1], ["Constitution", 2]], "slots": [2], "defense": 36, "monsters": ["Yian Kut-Ku"] },
+
+  { "name": "Balahara Helm α", "slot": "head", "skills": [["Evade Window", 1]], "slots": [], "defense": 25, "monsters": ["Balahara"] },
+  { "name": "Balahara Mail α", "slot": "chest", "skills": [["Paralysis Attack", 1]], "slots": [], "defense": 25, "monsters": ["Balahara"] },
+  { "name": "Balahara Vambraces α", "slot": "arms", "skills": [["Evade Window", 1]], "slots": [1], "defense": 25, "monsters": ["Balahara"] },
+  { "name": "Balahara Coil α", "slot": "waist", "skills": [["Item Prolonger", 1]], "slots": [], "defense": 25, "monsters": ["Balahara"] },
+  { "name": "Balahara Greaves α", "slot": "legs", "skills": [["Paralysis Attack", 1]], "slots": [1], "defense": 25, "monsters": ["Balahara"] }
+]

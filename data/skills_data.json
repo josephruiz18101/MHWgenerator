@@ -1,0 +1,11 @@
+{
+    "Critical Eye": {
+      "max_level": 7,
+      "affinity_bonus_per_level": 5
+    },
+    "Critical Boost": {
+      "max_level": 3,
+      "crit_damage_multiplier": [1.3, 1.35, 1.4]
+    }
+  }
+  
